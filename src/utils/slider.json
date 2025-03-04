@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SpeedBike X1",
+    "price": "5/km",
+    "detail": "Ideal for quick and small parcel deliveries within the city. Best for urgent document or food deliveries.",
+    "image": "./bike.png"
+  },
+  {
+    "name": "UrbanVan Pro",
+    "price": "20/km",
+    "detail": "Perfect for medium-sized shipments, furniture, and bulk grocery deliveries across urban areas.",
+    "image": "./van.jpg"
+  },
+  {
+    "name": "ScootEase 500",
+    "price": "7/km",
+    "detail": "Efficient for small package deliveries, medical supplies, or local courier services.",
+    "image": "./scooter.jpeg"
+  },
+  {
+    "name": "CityCruise Sedan",
+    "price": "15/km",
+    "detail": "Best for business travel, premium parcel services, and intercity document deliveries.",
+    "image": "./car.jpg"
+  },
+  {
+    "name": "SkySwift Drone",
+    "price": "30/km",
+    "detail": "Perfect for lightweight, high-speed deliveries like e-commerce, medical supplies, and small urgent packages.",
+    "image": "./drone.jpg"
+  },
+  {
+    "name": "FreightMaster Truck",
+    "price": "50/km",
+    "detail": "Designed for heavy goods transportation, industrial shipments, and bulk logistics.",
+    "image": "./truck.jpeg"
+  },
+  {
+    "name": "AeroLift Helicopter",
+    "price": "500/km",
+    "detail": "Used for emergency cargo transport, VIP logistics, and high-priority deliveries.",
+    "image": "./helicopter.jpg"
+  }
+]
