@@ -28,7 +28,10 @@ const Header = () => {
             <a href="#contact-us">Contact Us</a>
             <a href="#get-started">Get Started</a>
             <button className="button">
-              <a href="mailto:harshpandhehome@gmail.com">Contact</a>
+              <a href="https://logistics-dashboard-frrp.vercel.app/signup">Signup</a>
+            </button>
+            <button className="button">
+              <a href="https://logistics-dashboard-frrp.vercel.app/login">Login</a>
             </button>
           </div>
         </OutsideClickHandler>
